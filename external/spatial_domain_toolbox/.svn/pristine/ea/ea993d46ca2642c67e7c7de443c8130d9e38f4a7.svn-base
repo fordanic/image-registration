@@ -1,0 +1,51 @@
+2.1
+
+- Bugfix in polyexp_solve_system.c. Polyexp could crash under specific
+  circumstances with complex data and nonconstant certainty.
+- Changed functionality of tensorprod.m, NOT BACKWARDS COMPATIBLE!
+- New mex function tensorprodc.c.
+- New function outerprod to compute outer products of arrays.
+- New function neighborhoodloop which works like arrayloop but
+  generates neighborhoods around each point, which are passed to a
+  callback function.
+- New function antigradient to reconstruct a function from its
+  possibly noisy gradients.
+- Bugfixes in arrayloop.c.
+- Function handles and inline functions can be used in arrayloop.
+- Complex input can be used in arrayloop.
+- estimate_disparity is less broken.
+
+2.0 Released December 17, 2002
+
+- New function arrayloop to speed up certain types of loops (doing the
+  actual looping in C mex code instead of matlab code).
+- conv3 generalized to complex signals.
+- conv3 generalized to 4D signals and kernels.
+- normconv generalized to complex signals and basis functions.
+- polyexp generalized to complex signals.
+- polyexp generalized to 4D signals.
+- polyexp and normconv can compute output certainty.
+- New function make_Abc_fast for quick computation of quadratic
+  polynomial expansion with Gaussian applicability.
+- New function make_Abc_interlace for interlaced 2D signals.
+- New function poly_to_tensor to compute orientation tensors from
+  quadratic polynomial expansion coefficients.
+- Implementation of 4D tensors in make_tensors_fast finally works.
+- csegment has changed name to velocity_segment and has been documented.
+- New function estimate_disparity.
+- New function estimate_displacement.
+- New function one_frame_motion.
+- One optional parameter added to evaluate_velocity.
+- test_yosemite reconstructs all yosemite results in the thesis.
+- Several bugfixes and documentation improvements.
+- All references to Ph.D thesis instead of licentiate thesis.
+
+1.2 Released May 15, 2002
+
+- New files polyexp.m, polyexp_solve_systems.c, and
+  polyexp_solve_systems.m, implementing polynomial expansion.
+
+1.1 Released August 21, 2001
+
+- New files normconv.c and normconv.m, implementing normalized
+  convolution.

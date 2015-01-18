@@ -1,0 +1,26 @@
+This directory contains the Yosemite fly-through sequence, with the
+frames in tiff format and the correct flow for the middle frame in
+matlab format. THIS IS NOT AN ORIGINAL SOURCE FOR THIS SEQUENCE. If
+you want to convert it into some other format, please start over with
+[Insert URL here. The address I thought I had seem to be broken.]
+
+
+Below follows the relevant excerpts from the README by John Barron,
+which documents the original distribution of this sequence and a few
+other ones:
+
+------------
+(f) yos. - the famous Yosemite Fly-Through sequence produced by Lynn Quam at SRI.
+The motion of the clouds is 2 pixel to the right while the rest of the flow
+is divergent, with speed of about 5 pixels/frame in the lower left corner.
+Note that the Yosemite sequence is only 15 images, numbered 2 to 16 (9 is the
+middle image).
+[Note: originally the cloud motion was assumed to (1,0) but this is incorrect,
+as was pointed out to me by Michel Hafner at the University of Zurich.]
+------------
+the Yosemite data is 316*252.
+------------
+(7) new_correct_yos (correct_yos is the correct Yosemite flow when
+    the cloud motion is assumed to be (1,0), new_correct_yos has the
+    cloud motion at (2,0))
+------------

@@ -1,0 +1,94 @@
+2012-03-20  Gunnar Farnebäck  <gunnar@imt.liu.se>
+
+	* antigradient2.c: Refactor computation of residuals.
+
+	* antigradient2.c: Bugfix in upsampled3D(). This could also cause
+	numerical divergence.
+
+2009-03-18  Gunnar Farnebäck  <gunnar@imt.liu.se>
+
+	* antigradient2.c: Bugfix in upsample2D() and upsample3D(). The
+	construction (i - 1) / 2 in the computation of index2 does not
+	work as expected for the edge case i == 0 since integer division
+	rounds towards 0. Changing this to (i + 1) / 2 - 1 solves the
+	problem. This bug could cause numerical divergence for certain
+	mask shapes, causing the "solution" to numerically explode.
+
+2008-12-17  Gunnar Farnebäck  <gunnar@imt.liu.se>
+
+	* antigradient2.c: Bugfix in parameter parsing. Calling
+	antigradient2 with a single argument could cause crashing.
+	Thanks to Eran Ohel for reporting the problem and providing a
+	reproducible testcase.
+
+2007-02-15  Gunnar Farnebäck  <gunnar@imt.liu.se>
+
+	* polyexp_solve_system.c: Bugfix. The code could crash if complex
+	input somewhere gave real output.
+
+2006-10-12  Gunnar Farnebäck  <gunnar@imt.liu.se>
+
+	* Updated README.
+
+	* tensorprod.m: Complete rewrite and changed functionality.
+
+	* outerprod.m: Corrected affiliation.
+
+	* tensorprodc.m: New file.
+
+	* tensorprodc.c: New file.
+
+2006-09-20  Gunnar Farnebäck  <gunnar@imt.liu.se>
+
+	* make_tensors_fast.m: Replace tensorprod with outerprod.
+
+	* make_Abc_fast.m: Replace tensorprod with outerprod.
+
+	* outerprod.m: New file.
+
+2006-03-24  Gunnar Farnebäck  <gunnar@imt.liu.se>
+
+	* arrayloop.m: Added pointer to neighborhoodloop.
+
+	* neighborhoodloop.m: New file.
+
+	* neighborhoodloop.c: New file.
+
+2005-10-14  Gunnar Farnebäck  <gunnar@imt.liu.se>
+
+	* antigradient.c: Added missing freeing.
+
+2005-09-29  Gunnar Farnebäck  <gunnar@imt.liu.se>
+
+	* conv3_readable.c moved to dev/conv3_readable.c
+
+	* dev/generate_antigradient_code.pike: New program.
+
+	* dev/: New directory.
+
+	* antigradient.c: Major revisions.
+
+2005-07-01  Gunnar Farnebäck  <gunnar@imt.liu.se>
+
+	* antigradient.m: New function.
+
+	* antigradient.c: New function.
+
+2005-06-03  Gunnar Farnebäck  <gunnar@imt.liu.se>
+
+	* estimate_disparity.m: Calls to make_Abc_fast corrected.
+
+	* make_Abc_fast.m: Empty region_of_interest gives default value.
+
+2005-05-25  Gunnar Farnebäck  <gunnar@imt.liu.se>
+
+	* arrayloop.c: Complex matrices supported. This was implemented
+	earlier too but buggy and accidentally disabled.
+
+	* arrayloop.c: Added support for function handles and inline
+	functions to be called back, in addition to function names as
+	strings.
+
+	* arrayloop.m: Updated usage instructions.
+	
+

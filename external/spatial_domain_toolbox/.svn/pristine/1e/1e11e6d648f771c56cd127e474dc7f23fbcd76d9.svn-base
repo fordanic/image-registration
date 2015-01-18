@@ -1,0 +1,98 @@
+			 General Information
+
+This is spatial_domain_toolbox-2.1, a collection of matlab functions
+and scripts written by Gunnar Farnebäck. Originally this contained
+implementations of some of the algorithms described in his Ph.D. thesis
+"Polynomial Expansion for Orientation and Motion Estimation" but has
+subsequently been extended with other algorithms. A common theme is
+that the algorithms work on multidimensional signals and are designed
+and used directly in the spatial (or spatiotemporal) domain, without
+involving e.g. Fourier or wavelet transforms. Some functions even more
+generally apply to  multidimensional arrays. 
+
+Download instructions for the latest version should always be
+available at http://www.imt.liu.se/mi/tools/.
+
+Author is Gunnar Farnebäck, gunnar@imt.liu.se.
+
+
+			 News in Version 2.1
+
+* New general function neighborhoodloop.
+* Significantly improved function tensorprod (but see next section!).
+* New general function outerprod.
+* Significant improvements of arrayloop.
+* New function antigradient for reconstruction from gradients.
+* Bugfixes.
+
+See the file NEWS for details and older news.
+
+
+		   Important Notice for Version 2.1
+
+The function tensorprod has been changed in a way that is not
+backwards compatible. If you have used the old tensorprod you need to
+update your code for the new definition or if appropriate convert to
+the new function outerprod.
+
+
+			       License
+
+This is free software, published under the GNU General Public License
+(GPL). What this basically means is that you are free to use, modify,
+and redistribute the program under the same license. See the file
+COPYING for details. If you want to use this code in a way that is not
+covered by the license, contact the author to negotiate a different
+license.
+
+
+			    Prerequisites
+
+In order for this toolbox to be useful, you need to have Matlab
+installed. The toolbox has been tested with Matlab 7.
+
+
+			     Installation
+
+Untar the archive and copy all files to a directory where Matlab can
+find them. You also need to compile the C mex files. This is most
+easily done by running the following code in the toolbox directory:
+
+files = dir();
+for name = {files.name}
+    file = name{1};
+    if file(end) == 'c' && file(end-1) == '.'
+        mex(file);
+    end
+end
+
+
+			      References
+
+The Ph.D. thesis, as well as a number of related papers, can be
+found at either of these pages:
+
+http://www.isy.liu.se/~gf/publications.html
+http://lmi.bwh.harvard.edu/papers/gunnar.html
+http://www.imt.liu.se/mi/Publications/gunnar.html
+
+
+			 Further Development
+
+New algorithms and functions are added from time to time. Development
+versions are available in a subversion repository at
+http://lsvn.lysator.liu.se/svnroot/spatial_domain_toolbox/trunk.
+This is best accessed using a subversion client, see 
+http://subversion.tigris.org, but a common web browser can also be
+used to access the most recent versions of the files.
+
+
+			     Bug Reports
+
+Please send bug reports, bug fixes, improvements, and success stories
+to the author at gunnar@imt.liu.se. The toolbox is of course provided as
+is, no warranty, etc.
+
+
+Linköping 2006-10-12
+Gunnar Farnebäck

@@ -1,0 +1,7164 @@
+Fri May 23 14:52:44 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 14:52:45 2014
+Current memory status; Free: 1486 MB; Total: 2048 MB
+
+Fri May 23 14:52:47 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:52:47 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 14:52:49 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:52:49 2014
+Current memory status; Free: 1457 MB; Total: 2048 MB
+
+Fri May 23 14:52:51 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:52:51 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 14:52:53 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:52:53 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 14:52:55 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:52:56 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 14:52:57 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:52:58 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 14:52:59 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:53:00 2014
+Current memory status; Free: 1457 MB; Total: 2048 MB
+
+Fri May 23 14:53:01 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:53:02 2014
+Current memory status; Free: 1457 MB; Total: 2048 MB
+
+Fri May 23 14:53:20 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 14:53:20 2014
+Current memory status; Free: 1486 MB; Total: 2048 MB
+
+Fri May 23 14:53:21 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:53:22 2014
+Current memory status; Free: 1457 MB; Total: 2048 MB
+
+Fri May 23 14:53:23 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:53:24 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 14:53:25 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:53:26 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 14:53:27 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:53:27 2014
+Current memory status; Free: 1457 MB; Total: 2048 MB
+
+Fri May 23 14:53:29 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:53:29 2014
+Current memory status; Free: 1457 MB; Total: 2048 MB
+
+Fri May 23 14:53:31 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:53:31 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 14:53:32 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:53:33 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 14:53:34 2014
+Current memory status; Free: 1538 MB; Total: 2048 MB
+
+Fri May 23 14:53:35 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 14:53:48 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 14:53:49 2014
+Current memory status; Free: 1487 MB; Total: 2048 MB
+
+Fri May 23 14:53:58 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:53:59 2014
+Current memory status; Free: 1486 MB; Total: 2048 MB
+
+Fri May 23 14:54:08 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:54:09 2014
+Current memory status; Free: 1457 MB; Total: 2048 MB
+
+Fri May 23 14:54:18 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:54:19 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 14:54:29 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 14:54:29 2014
+Current memory status; Free: 1457 MB; Total: 2048 MB
+
+Fri May 23 15:10:58 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 15:10:59 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 15:11:32 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 15:11:32 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 15:11:34 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:11:35 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:11:36 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:11:37 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:11:38 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:11:39 2014
+Current memory status; Free: 1480 MB; Total: 2048 MB
+
+Fri May 23 15:11:40 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:11:41 2014
+Current memory status; Free: 1480 MB; Total: 2048 MB
+
+Fri May 23 15:11:42 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 15:11:43 2014
+Current memory status; Free: 1485 MB; Total: 2048 MB
+
+Fri May 23 15:12:03 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 15:12:04 2014
+Current memory status; Free: 1481 MB; Total: 2048 MB
+
+Fri May 23 15:13:18 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 15:13:18 2014
+Current memory status; Free: 1500 MB; Total: 2048 MB
+
+Fri May 23 15:13:22 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:13:22 2014
+Current memory status; Free: 1490 MB; Total: 2048 MB
+
+Fri May 23 15:13:26 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:13:27 2014
+Current memory status; Free: 1480 MB; Total: 2048 MB
+
+Fri May 23 15:13:31 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:13:31 2014
+Current memory status; Free: 1480 MB; Total: 2048 MB
+
+Fri May 23 15:13:35 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:13:35 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 15:13:39 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:13:40 2014
+Current memory status; Free: 1491 MB; Total: 2048 MB
+
+Fri May 23 15:13:48 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 15:13:48 2014
+Current memory status; Free: 1501 MB; Total: 2048 MB
+
+Fri May 23 15:13:52 2014
+Current memory status; Free: 1546 MB; Total: 2048 MB
+
+Fri May 23 15:13:53 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:13:57 2014
+Current memory status; Free: 1546 MB; Total: 2048 MB
+
+Fri May 23 15:13:58 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:38:12 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 15:38:17 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 15:38:28 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:38:28 2014
+Current memory status; Free: 1501 MB; Total: 2048 MB
+
+Fri May 23 15:41:08 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 15:41:08 2014
+Current memory status; Free: 1499 MB; Total: 2048 MB
+
+Fri May 23 15:41:09 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 15:41:12 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 15:41:19 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 15:41:20 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 15:42:08 2014
+Current memory status; Free: 1547 MB; Total: 2048 MB
+
+Fri May 23 15:42:08 2014
+Current memory status; Free: 1481 MB; Total: 2048 MB
+
+Fri May 23 15:42:08 2014
+Current memory status; Free: 1547 MB; Total: 2048 MB
+
+Fri May 23 15:42:10 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:42:10 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:11 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:42:11 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:12 2014
+Current memory status; Free: 1540 MB; Total: 2048 MB
+
+Fri May 23 15:42:13 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:13 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:42:13 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:15 2014
+Current memory status; Free: 1540 MB; Total: 2048 MB
+
+Fri May 23 15:42:15 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:16 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:42:16 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:17 2014
+Current memory status; Free: 1540 MB; Total: 2048 MB
+
+Fri May 23 15:42:18 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:18 2014
+Current memory status; Free: 1480 MB; Total: 2048 MB
+
+Fri May 23 15:42:18 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:20 2014
+Current memory status; Free: 1540 MB; Total: 2048 MB
+
+Fri May 23 15:42:20 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:21 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:42:21 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:22 2014
+Current memory status; Free: 1540 MB; Total: 2048 MB
+
+Fri May 23 15:42:22 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:23 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:42:23 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:25 2014
+Current memory status; Free: 1540 MB; Total: 2048 MB
+
+Fri May 23 15:42:25 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 15:42:25 2014
+Current memory status; Free: 1487 MB; Total: 2048 MB
+
+Fri May 23 15:42:26 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 15:42:27 2014
+Current memory status; Free: 1547 MB; Total: 2048 MB
+
+Fri May 23 15:42:27 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:28 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:42:28 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:30 2014
+Current memory status; Free: 1539 MB; Total: 2048 MB
+
+Fri May 23 15:42:30 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:30 2014
+Current memory status; Free: 1480 MB; Total: 2048 MB
+
+Fri May 23 15:42:30 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:32 2014
+Current memory status; Free: 1540 MB; Total: 2048 MB
+
+Fri May 23 15:42:32 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:33 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:42:33 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:34 2014
+Current memory status; Free: 1540 MB; Total: 2048 MB
+
+Fri May 23 15:42:35 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:35 2014
+Current memory status; Free: 1480 MB; Total: 2048 MB
+
+Fri May 23 15:42:35 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 15:42:37 2014
+Current memory status; Free: 1540 MB; Total: 2048 MB
+
+Fri May 23 15:43:23 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 15:43:23 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 15:43:23 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 15:43:26 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:43:26 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:43:27 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:43:27 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:43:29 2014
+Current memory status; Free: 1533 MB; Total: 2048 MB
+
+Fri May 23 15:43:30 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:43:30 2014
+Current memory status; Free: 1478 MB; Total: 2048 MB
+
+Fri May 23 15:43:30 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:43:33 2014
+Current memory status; Free: 1532 MB; Total: 2048 MB
+
+Fri May 23 15:43:33 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:43:34 2014
+Current memory status; Free: 1478 MB; Total: 2048 MB
+
+Fri May 23 15:43:34 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:43:36 2014
+Current memory status; Free: 1533 MB; Total: 2048 MB
+
+Fri May 23 15:43:36 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:43:37 2014
+Current memory status; Free: 1478 MB; Total: 2048 MB
+
+Fri May 23 15:43:37 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:43:40 2014
+Current memory status; Free: 1533 MB; Total: 2048 MB
+
+Fri May 23 15:43:40 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:43:40 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:43:40 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:43:43 2014
+Current memory status; Free: 1533 MB; Total: 2048 MB
+
+Fri May 23 15:43:43 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:43:44 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:43:44 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:43:46 2014
+Current memory status; Free: 1533 MB; Total: 2048 MB
+
+Fri May 23 15:43:52 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 15:43:52 2014
+Current memory status; Free: 1500 MB; Total: 2048 MB
+
+Fri May 23 15:43:52 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 15:43:56 2014
+Current memory status; Free: 1546 MB; Total: 2048 MB
+
+Fri May 23 15:43:57 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:43:57 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:43:57 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:01 2014
+Current memory status; Free: 1525 MB; Total: 2048 MB
+
+Fri May 23 15:44:01 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:02 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:44:02 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:06 2014
+Current memory status; Free: 1525 MB; Total: 2048 MB
+
+Fri May 23 15:44:06 2014
+Current memory status; Free: 1547 MB; Total: 2048 MB
+
+Fri May 23 15:44:07 2014
+Current memory status; Free: 1482 MB; Total: 2048 MB
+
+Fri May 23 15:44:07 2014
+Current memory status; Free: 1547 MB; Total: 2048 MB
+
+Fri May 23 15:44:11 2014
+Current memory status; Free: 1528 MB; Total: 2048 MB
+
+Fri May 23 15:44:11 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:12 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:44:12 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:16 2014
+Current memory status; Free: 1525 MB; Total: 2048 MB
+
+Fri May 23 15:44:16 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:17 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:44:17 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:21 2014
+Current memory status; Free: 1525 MB; Total: 2048 MB
+
+Fri May 23 15:44:21 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 15:44:22 2014
+Current memory status; Free: 1486 MB; Total: 2048 MB
+
+Fri May 23 15:44:22 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 15:44:26 2014
+Current memory status; Free: 1546 MB; Total: 2048 MB
+
+Fri May 23 15:44:26 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 15:44:27 2014
+Current memory status; Free: 1492 MB; Total: 2048 MB
+
+Fri May 23 15:44:27 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 15:44:31 2014
+Current memory status; Free: 1546 MB; Total: 2048 MB
+
+Fri May 23 15:44:42 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 15:44:42 2014
+Current memory status; Free: 1501 MB; Total: 2048 MB
+
+Fri May 23 15:44:42 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 15:44:45 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:44:45 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:46 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:44:46 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:49 2014
+Current memory status; Free: 1537 MB; Total: 2048 MB
+
+Fri May 23 15:44:49 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:49 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:44:49 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:52 2014
+Current memory status; Free: 1537 MB; Total: 2048 MB
+
+Fri May 23 15:44:52 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:53 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:44:53 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:56 2014
+Current memory status; Free: 1537 MB; Total: 2048 MB
+
+Fri May 23 15:44:56 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:56 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:44:56 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:44:59 2014
+Current memory status; Free: 1537 MB; Total: 2048 MB
+
+Fri May 23 15:44:59 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:45:00 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:45:00 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:45:03 2014
+Current memory status; Free: 1537 MB; Total: 2048 MB
+
+Fri May 23 15:45:03 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:45:03 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:45:03 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:45:06 2014
+Current memory status; Free: 1537 MB; Total: 2048 MB
+
+Fri May 23 15:45:06 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:45:07 2014
+Current memory status; Free: 1479 MB; Total: 2048 MB
+
+Fri May 23 15:45:07 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:45:10 2014
+Current memory status; Free: 1551 MB; Total: 2048 MB
+
+Fri May 23 15:55:35 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 15:55:35 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 15:55:35 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 15:55:36 2014
+Current memory status; Free: 1576 MB; Total: 2048 MB
+
+Fri May 23 15:55:36 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:36 2014
+Current memory status; Free: 1494 MB; Total: 2048 MB
+
+Fri May 23 15:55:36 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:37 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 15:55:37 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:37 2014
+Current memory status; Free: 1494 MB; Total: 2048 MB
+
+Fri May 23 15:55:37 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:38 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 15:55:38 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:38 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:55:39 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:39 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 15:55:39 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:39 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:55:40 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:40 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:55:40 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:40 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:55:41 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:41 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:55:41 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:42 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:55:42 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:42 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:55:42 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:43 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:55:43 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:43 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:55:43 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:44 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:55:44 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:44 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 15:55:44 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:45 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:55:45 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:45 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:55:45 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:46 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:55:46 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:46 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 15:55:46 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:47 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:55:47 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:47 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:55:47 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:48 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:55:48 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:48 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:55:48 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:49 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:55:49 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:49 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 15:55:49 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:50 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:55:50 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:50 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 15:55:50 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:51 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:55:51 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:51 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:55:51 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:52 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:55:52 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:52 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:55:53 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:53 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:55:53 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:53 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:55:54 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:54 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:55:54 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:54 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:55:55 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:55 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:55:55 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:55 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:55:56 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:56 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:55:56 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:56 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:55:57 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:57 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:55:57 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:55:58 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:56:08 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:09 2014
+Current memory status; Free: 1497 MB; Total: 2048 MB
+
+Fri May 23 15:56:09 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:56:09 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 15:56:09 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:10 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:10 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:10 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:10 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:11 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:11 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:11 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:11 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:56:11 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 15:56:12 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:56:12 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:56:12 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:12 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:13 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:13 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:13 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:13 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:14 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:14 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:14 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:14 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:56:14 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:15 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:15 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:15 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:15 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:15 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:16 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:16 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:16 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:16 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 15:56:17 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:17 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:17 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:17 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:18 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:18 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:18 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:18 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:19 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:19 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:56:19 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:19 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:20 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:20 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:20 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:20 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 15:56:20 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:21 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:56:21 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:21 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:21 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:22 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:22 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:22 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:22 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:23 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:23 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:23 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:23 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:24 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:24 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:24 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:24 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:25 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:25 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:25 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:25 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:26 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:26 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:26 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 15:56:26 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:27 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:27 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:27 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 15:56:27 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:28 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:28 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:28 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:28 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:29 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:29 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:29 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:36 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:37 2014
+Current memory status; Free: 1497 MB; Total: 2048 MB
+
+Fri May 23 15:56:37 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:56:38 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:56:38 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:39 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:39 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:40 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:40 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:40 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:40 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:41 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:42 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:42 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:56:42 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:43 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:43 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:44 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:44 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:45 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:45 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:46 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:46 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:47 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 15:56:47 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:48 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:56:48 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:49 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:49 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:49 2014
+Current memory status; Free: 1503 MB; Total: 2048 MB
+
+Fri May 23 15:56:49 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:56:50 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:56:56 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:56:56 2014
+Current memory status; Free: 1516 MB; Total: 2048 MB
+
+Fri May 23 15:56:56 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:56:58 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 15:56:58 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:56:59 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:56:59 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:01 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:57:01 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:01 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:57:01 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:03 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:57:03 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:04 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:57:04 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:06 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:57:06 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:06 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:57:07 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:08 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:57:08 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:09 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:57:09 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:11 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:57:11 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:12 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:57:12 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:13 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:57:14 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:14 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:57:14 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:16 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:57:16 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:17 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:57:17 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:19 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:57:19 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:19 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:57:19 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:21 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:57:21 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:22 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:57:22 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:24 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:57:24 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:24 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:57:25 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:26 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:57:26 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:27 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:57:27 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:29 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:57:29 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:30 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:57:30 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:31 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 15:57:31 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:32 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:57:32 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:57:33 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:58:08 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:08 2014
+Current memory status; Free: 1506 MB; Total: 2048 MB
+
+Fri May 23 15:58:08 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:09 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:58:09 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:09 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:58:10 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:10 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:10 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:11 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:58:11 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:11 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:11 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:12 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:58:12 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:13 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:13 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:13 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:58:13 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:14 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:14 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:15 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:58:15 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:15 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:15 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:16 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:58:16 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:16 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:17 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:17 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:58:17 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:18 2014
+Current memory status; Free: 1541 MB; Total: 2048 MB
+
+Fri May 23 15:58:18 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:18 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:58:19 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:19 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:19 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:20 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:58:20 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:20 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:21 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:21 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:58:21 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:22 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:22 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 15:58:22 2014
+Current memory status; Free: 1501 MB; Total: 2048 MB
+
+Fri May 23 15:58:22 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 15:58:23 2014
+Current memory status; Free: 1547 MB; Total: 2048 MB
+
+Fri May 23 15:58:28 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:29 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 15:58:29 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:29 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:58:29 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 15:58:30 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 15:58:30 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:58:31 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 15:58:31 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:31 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:58:31 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:32 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:32 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:33 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:33 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 15:58:33 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 15:58:33 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:34 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:58:34 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:34 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:35 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:35 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:35 2014
+Current memory status; Free: 1576 MB; Total: 2048 MB
+
+Fri May 23 15:58:36 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:58:36 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:36 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 15:58:37 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:37 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:58:37 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:38 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:58:38 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:58:38 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 15:58:38 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:39 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 15:58:39 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:40 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:58:40 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:40 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:58:40 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:58:41 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 15:58:41 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:42 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 15:58:42 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:42 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:58:42 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:43 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:58:43 2014
+Current memory status; Free: 1581 MB; Total: 2048 MB
+
+Fri May 23 15:58:43 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 15:58:44 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:44 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 15:58:44 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:45 2014
+Current memory status; Free: 1541 MB; Total: 2048 MB
+
+Fri May 23 15:58:45 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:45 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:45 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 15:58:46 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 15:58:46 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:47 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 15:58:47 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:47 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:58:47 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:48 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:58:48 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:58:48 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 15:58:49 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:49 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:58:49 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:50 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:50 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:50 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:51 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 15:58:51 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:58:51 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:52 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:58:52 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:52 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:53 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:53 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:53 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 15:58:54 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 15:58:54 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:54 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 15:58:54 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:55 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:58:55 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:58:55 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:58:56 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:58:56 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 15:58:56 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:57 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:58:57 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:57 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:58 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:58 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:58:58 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 15:58:59 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:58:59 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:58:59 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:59:00 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:00 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:59:00 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:01 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:59:01 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 15:59:01 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:59:01 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:02 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 15:59:02 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:03 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:59:03 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:03 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:59:03 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:59:04 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 15:59:04 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:05 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:59:05 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:05 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:59:05 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:59:06 2014
+Current memory status; Free: 1543 MB; Total: 2048 MB
+
+Fri May 23 15:59:06 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:59:06 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 15:59:07 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:07 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:59:07 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:08 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:59:08 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:08 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:59:08 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 15:59:09 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:59:09 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:10 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:59:10 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:10 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:59:10 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:11 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:59:11 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 15:59:11 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:59:12 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:12 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:59:12 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:13 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:59:13 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:59:13 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:59:14 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:59:14 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 15:59:14 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:15 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 15:59:15 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:15 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:59:16 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:16 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 15:59:16 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:59:17 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 15:59:17 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:17 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:59:17 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:18 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:59:18 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:19 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:59:19 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 15:59:19 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 15:59:19 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:20 2014
+Current memory status; Free: 1506 MB; Total: 2048 MB
+
+Fri May 23 15:59:20 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:20 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 15:59:21 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 15:59:21 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 15:59:21 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:59:22 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 15:59:22 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:22 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:59:23 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:23 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 15:59:23 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:59:24 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 15:59:24 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 15:59:24 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:59:52 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:53 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 15:59:53 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:53 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 15:59:53 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 15:59:53 2014
+Current memory status; Free: 1575 MB; Total: 2048 MB
+
+Fri May 23 15:59:54 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 15:59:54 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:59:54 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:55 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 15:59:55 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 15:59:55 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 15:59:55 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:59:56 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 15:59:56 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 15:59:56 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 15:59:56 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:57 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 15:59:57 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:57 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 15:59:57 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:58 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 15:59:58 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 15:59:58 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 15:59:59 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:59 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 15:59:59 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 15:59:59 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:00:00 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:00:00 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:00:00 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:00:00 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:00:01 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:00:01 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 16:00:01 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:00:02 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:00:02 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:00:02 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:00:02 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:00:03 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:00:03 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:03 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:03 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:04 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:04 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:00:04 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:00:04 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:00:05 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:00:05 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:05 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:06 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:06 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:06 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:06 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:06 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:00:07 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:00:07 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:08 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:08 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:08 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:08 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:08 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:09 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:00:09 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:00:09 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:10 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:10 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:10 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:10 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:11 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:11 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:00:11 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:00:11 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:12 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:00:12 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:12 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:00:12 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:13 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:00:13 2014
+Current memory status; Free: 1579 MB; Total: 2048 MB
+
+Fri May 23 16:00:13 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:00:14 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:14 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:14 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:14 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:15 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:15 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:15 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:00:15 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:00:16 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:16 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:16 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:17 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:17 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:00:17 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:00:17 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:00:18 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:00:18 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:18 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:18 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:19 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:19 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:19 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:19 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:00:20 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:00:20 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:20 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:21 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:21 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:21 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:21 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:21 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:00:22 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:00:22 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:23 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:23 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:23 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:23 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:23 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:24 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:00:24 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:00:24 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:00:25 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 16:00:25 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:00:25 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:00:25 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:00:26 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:00:26 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:00:26 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:00:26 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:00:27 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 16:00:27 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:00:27 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:00:27 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:00:28 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:00:28 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:00:28 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:00:29 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:29 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:29 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:29 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:30 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:30 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:30 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:00:30 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:00:31 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:31 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:31 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:32 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:32 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:32 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:32 2014
+Current memory status; Free: 1576 MB; Total: 2048 MB
+
+Fri May 23 16:00:33 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:00:33 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:33 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:33 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:34 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:34 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:34 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:34 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:00:35 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:00:35 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:35 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:00:36 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:36 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:36 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:36 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:36 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:00:37 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:00:37 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:38 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:38 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:38 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:00:38 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:38 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:00:39 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:00:39 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:00:54 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:54 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:00:54 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:00:55 2014
+Current memory status; Free: 1551 MB; Total: 2048 MB
+
+Fri May 23 16:00:55 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:00:55 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:00:55 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:00:56 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:00:56 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:57 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:57 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:57 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:00:57 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:58 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:00:58 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:00:58 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:00:58 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:59 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:00:59 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:00:59 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:00 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:00 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:01:00 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:01:00 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:01:01 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:01:01 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 16:01:01 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:01:02 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:01:02 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:01:02 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:02 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:01:03 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:01:03 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:03 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:04 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:04 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:04 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:04 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:01:05 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:01:05 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:05 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:06 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:06 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:06 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:06 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:07 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:01:07 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:01:07 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:08 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:08 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:08 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:09 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:09 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:09 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:01:09 2014
+Current memory status; Free: 1568 MB; Total: 2048 MB
+
+Fri May 23 16:01:10 2014
+Current memory status; Free: 1549 MB; Total: 2048 MB
+
+Fri May 23 16:01:10 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:10 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:11 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:11 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:11 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:11 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:01:12 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:01:12 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:12 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:13 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:13 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:13 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:13 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:14 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:01:14 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:01:14 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:14 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:01:15 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 16:01:15 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:01:15 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:01:16 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:01:16 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:01:16 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:01:17 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:01:17 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:17 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:17 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:18 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:18 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:18 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:01:18 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:01:19 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:19 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:20 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:01:20 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:20 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:20 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:01:20 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:01:21 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:01:21 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:21 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:22 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:22 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:22 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:22 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:23 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:01:23 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:01:23 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:01:24 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:24 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:24 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:25 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:25 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:25 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:01:25 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:01:26 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:26 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:26 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:27 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:27 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:27 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:27 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:01:28 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:01:28 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:28 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:29 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:29 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:29 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:29 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:30 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:01:30 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:01:30 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:31 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:31 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:31 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:31 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:32 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:32 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:01:32 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:01:33 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:01:33 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:33 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:33 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:34 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:34 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:34 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:01:34 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:01:35 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:35 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:36 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:36 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:36 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:36 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:37 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:01:37 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:01:37 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:01:37 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:38 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:38 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:38 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:39 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:39 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:01:39 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:01:39 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:01:40 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:01:40 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 16:01:40 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:01:41 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:01:41 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:01:41 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:41 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:01:42 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:01:42 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:42 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:01:43 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:43 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:01:43 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:01:43 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:01:44 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:01:44 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:02:08 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:08 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:02:08 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:02:09 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:02:09 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:02:09 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 16:02:09 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:02:10 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:02:10 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:11 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 16:02:11 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:11 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:02:11 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:12 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:02:12 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:02:12 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:02:12 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:13 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:02:13 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:13 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:14 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:14 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 16:02:14 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:02:15 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:02:15 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:15 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 16:02:16 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:16 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:02:16 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:02:17 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 16:02:17 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:02:17 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:02:17 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:18 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:02:18 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:18 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:19 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:19 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 16:02:19 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:02:20 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:02:20 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:20 2014
+Current memory status; Free: 1518 MB; Total: 2048 MB
+
+Fri May 23 16:02:20 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:02:21 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:02:21 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:02:21 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:02:22 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:02:22 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:02:22 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:23 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 16:02:23 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:23 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:02:23 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:24 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:02:24 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:02:25 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:02:25 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:25 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:02:25 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:26 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:26 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:26 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 16:02:27 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:02:27 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:02:27 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:28 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 16:02:28 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:28 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:02:28 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:29 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:02:29 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:02:29 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:02:30 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:30 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:02:30 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:31 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:31 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:31 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 16:02:31 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:02:32 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:02:32 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:33 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:02:33 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:33 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:33 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:34 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 16:02:34 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:02:34 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:02:35 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:35 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:02:35 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:36 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:36 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:36 2014
+Current memory status; Free: 1541 MB; Total: 2048 MB
+
+Fri May 23 16:02:36 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:02:37 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:02:37 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:38 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:02:38 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:38 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:38 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:39 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 16:02:39 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:02:39 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:02:39 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:40 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:02:40 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:40 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:41 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:41 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 16:02:41 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:02:42 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:02:42 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:42 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:02:43 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:43 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:43 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:43 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 16:02:44 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:02:44 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:02:44 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:45 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:02:45 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:45 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:46 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:46 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 16:02:46 2014
+Current memory status; Free: 1576 MB; Total: 2048 MB
+
+Fri May 23 16:02:47 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:02:47 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:47 2014
+Current memory status; Free: 1507 MB; Total: 2048 MB
+
+Fri May 23 16:02:47 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:48 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:02:48 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:02:48 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:02:49 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:02:49 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:02:49 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:50 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:02:50 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:50 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:50 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:51 2014
+Current memory status; Free: 1541 MB; Total: 2048 MB
+
+Fri May 23 16:02:51 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:02:51 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:02:52 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:52 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:02:52 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:53 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:53 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:53 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 16:02:53 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:02:54 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:02:54 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:55 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:02:55 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:55 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:55 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:56 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 16:02:56 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:02:56 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:02:57 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:57 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:02:57 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:02:58 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:02:58 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:02:58 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 16:02:58 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:02:59 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:02:59 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:03:00 2014
+Current memory status; Free: 1496 MB; Total: 2048 MB
+
+Fri May 23 16:03:00 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:03:00 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:03:00 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:03:01 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 16:03:01 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:03:01 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:03:11 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:03:11 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:03:16 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:03:17 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:03:24 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:03:28 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:04:27 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:04:31 2014
+Current memory status; Free: 1569 MB; Total: 2048 MB
+
+Fri May 23 16:04:36 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:04:36 2014
+Current memory status; Free: 1569 MB; Total: 2048 MB
+
+Fri May 23 16:04:41 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:04:42 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:04:46 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:04:49 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:04:55 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:04:56 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:05:30 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:05:30 2014
+Current memory status; Free: 1497 MB; Total: 2048 MB
+
+Fri May 23 16:05:30 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:05:30 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:05:31 2014
+Current memory status; Free: 1569 MB; Total: 2048 MB
+
+Fri May 23 16:05:33 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:05:33 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:05:34 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:05:34 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:05:35 2014
+Current memory status; Free: 1494 MB; Total: 2048 MB
+
+Fri May 23 16:05:35 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:05:35 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:05:35 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:05:38 2014
+Current memory status; Free: 1551 MB; Total: 2048 MB
+
+Fri May 23 16:05:38 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:05:38 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:05:39 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:05:39 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:05:39 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:05:40 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:05:40 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:05:42 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:05:43 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:05:43 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:05:43 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:05:44 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:05:44 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:05:44 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:05:44 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:05:47 2014
+Current memory status; Free: 1549 MB; Total: 2048 MB
+
+Fri May 23 16:05:47 2014
+Current memory status; Free: 1569 MB; Total: 2048 MB
+
+Fri May 23 16:05:48 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:05:48 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:05:48 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:05:48 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:05:49 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:05:49 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:05:51 2014
+Current memory status; Free: 1551 MB; Total: 2048 MB
+
+Fri May 23 16:05:52 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:05:52 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:05:52 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:05:53 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:05:53 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:05:53 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:05:53 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:05:56 2014
+Current memory status; Free: 1551 MB; Total: 2048 MB
+
+Fri May 23 16:05:56 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:05:57 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:05:57 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:05:57 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:05:57 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:05:58 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:05:58 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:06:00 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:06:01 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:06:01 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:01 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:06:02 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:06:02 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:06:02 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:06:02 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:06:05 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:05 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:06:06 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:06:06 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:06 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:06:06 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:07 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:06:07 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:09 2014
+Current memory status; Free: 1549 MB; Total: 2048 MB
+
+Fri May 23 16:06:10 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:06:10 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:06:10 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:06:11 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:06:11 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:06:11 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:06:11 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:06:14 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:14 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:06:14 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:06:15 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:06:15 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:06:15 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:06:16 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:06:16 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:06:18 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:19 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:06:19 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:06:19 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:20 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:06:20 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:20 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:06:20 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:23 2014
+Current memory status; Free: 1549 MB; Total: 2048 MB
+
+Fri May 23 16:06:23 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:06:24 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:06:24 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:24 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:06:24 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:25 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:06:25 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:06:27 2014
+Current memory status; Free: 1551 MB; Total: 2048 MB
+
+Fri May 23 16:06:28 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:06:28 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:06:28 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:06:29 2014
+Current memory status; Free: 1494 MB; Total: 2048 MB
+
+Fri May 23 16:06:29 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:06:29 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:06:29 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:06:32 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:06:32 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:06:33 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:06:33 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:33 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:06:33 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:34 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:06:34 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:36 2014
+Current memory status; Free: 1549 MB; Total: 2048 MB
+
+Fri May 23 16:06:37 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:06:37 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 16:06:37 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:06:38 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:06:38 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:06:38 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:06:38 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:06:41 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:41 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:06:41 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:06:42 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:42 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:06:42 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:43 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:06:43 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:45 2014
+Current memory status; Free: 1549 MB; Total: 2048 MB
+
+Fri May 23 16:06:46 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:06:46 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:06:46 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:47 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:06:47 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:47 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:06:47 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:50 2014
+Current memory status; Free: 1549 MB; Total: 2048 MB
+
+Fri May 23 16:06:50 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:06:50 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:06:51 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:51 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:06:51 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:52 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:06:52 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:54 2014
+Current memory status; Free: 1549 MB; Total: 2048 MB
+
+Fri May 23 16:06:54 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:06:55 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:06:55 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:56 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:06:56 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:56 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:06:56 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:06:59 2014
+Current memory status; Free: 1549 MB; Total: 2048 MB
+
+Fri May 23 16:06:59 2014
+Current memory status; Free: 1577 MB; Total: 2048 MB
+
+Fri May 23 16:06:59 2014
+Current memory status; Free: 1557 MB; Total: 2048 MB
+
+Fri May 23 16:07:00 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:07:00 2014
+Current memory status; Free: 1495 MB; Total: 2048 MB
+
+Fri May 23 16:07:00 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:07:01 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:07:01 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:07:03 2014
+Current memory status; Free: 1549 MB; Total: 2048 MB
+
+Fri May 23 16:07:03 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:07:04 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:07:04 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:07:05 2014
+Current memory status; Free: 1504 MB; Total: 2048 MB
+
+Fri May 23 16:07:05 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:07:05 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:07:05 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:07:08 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:07:08 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:07:08 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:10:28 2014
+Current memory status; Free: 1581 MB; Total: 2048 MB
+
+Fri May 23 16:10:29 2014
+Current memory status; Free: 1516 MB; Total: 2048 MB
+
+Fri May 23 16:10:48 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:10:49 2014
+Current memory status; Free: 1509 MB; Total: 2048 MB
+
+Fri May 23 16:10:49 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:10:49 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:10:50 2014
+Current memory status; Free: 1577 MB; Total: 2048 MB
+
+Fri May 23 16:10:52 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 16:10:52 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:10:53 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:10:53 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:10:54 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:10:54 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:10:54 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:10:54 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:10:57 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:10:57 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:10:58 2014
+Current memory status; Free: 1551 MB; Total: 2048 MB
+
+Fri May 23 16:10:58 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:10:58 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:10:58 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:10:59 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:10:59 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:02 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:11:02 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:11:02 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 16:11:02 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:03 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:11:03 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:03 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:11:04 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:06 2014
+Current memory status; Free: 1551 MB; Total: 2048 MB
+
+Fri May 23 16:11:06 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:11:07 2014
+Current memory status; Free: 1551 MB; Total: 2048 MB
+
+Fri May 23 16:11:07 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:08 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:11:08 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:08 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:11:08 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:11 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:11:11 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:11:11 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:11:12 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:12 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:11:12 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:13 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:11:13 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:15 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:28 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:11:29 2014
+Current memory status; Free: 1520 MB; Total: 2048 MB
+
+Fri May 23 16:11:29 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:11:29 2014
+Current memory status; Free: 1576 MB; Total: 2048 MB
+
+Fri May 23 16:11:29 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:11:32 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:11:32 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:11:35 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:11:35 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:11:35 2014
+Current memory status; Free: 1509 MB; Total: 2048 MB
+
+Fri May 23 16:11:35 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:11:36 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:11:36 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:11:38 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:39 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:11:41 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:11:42 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:42 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:11:42 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:42 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:11:43 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:45 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:11:45 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:11:48 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:11:48 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:49 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:11:49 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:49 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:11:49 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 16:11:52 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 16:11:52 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:11:55 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:11:55 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:55 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:11:55 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:56 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:11:56 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:11:58 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:11:59 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 16:12:01 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 16:12:02 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:02 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:12:02 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:02 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:12:03 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 16:12:05 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 16:12:05 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:12:08 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:12:08 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:09 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:12:09 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:09 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:12:09 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:12 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:12:12 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:12:15 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:12:15 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:12:15 2014
+Current memory status; Free: 1509 MB; Total: 2048 MB
+
+Fri May 23 16:12:15 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:12:16 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:12:16 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:12:18 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:19 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:12:21 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:12:21 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:22 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:12:22 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:22 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:12:22 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:25 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:12:25 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:12:28 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:12:28 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:28 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:12:28 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:29 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:12:29 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:31 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:12:32 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:12:34 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:12:34 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:35 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:12:35 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:35 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:12:35 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:38 2014
+Current memory status; Free: 1551 MB; Total: 2048 MB
+
+Fri May 23 16:12:38 2014
+Current memory status; Free: 1577 MB; Total: 2048 MB
+
+Fri May 23 16:12:41 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 16:12:41 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:12:41 2014
+Current memory status; Free: 1509 MB; Total: 2048 MB
+
+Fri May 23 16:12:42 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:12:42 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:12:42 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:12:45 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:45 2014
+Current memory status; Free: 1577 MB; Total: 2048 MB
+
+Fri May 23 16:12:47 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 16:12:47 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:48 2014
+Current memory status; Free: 1498 MB; Total: 2048 MB
+
+Fri May 23 16:12:48 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:48 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:12:49 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:12:51 2014
+Current memory status; Free: 1551 MB; Total: 2048 MB
+
+Fri May 23 16:12:51 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:12:54 2014
+Current memory status; Free: 1569 MB; Total: 2048 MB
+
+Fri May 23 16:12:54 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:12:55 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:12:55 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:12:55 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:12:55 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:12:58 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:12:58 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:13:00 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:13:01 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:01 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:13:01 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:01 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:13:02 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:04 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:13:04 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:13:07 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:13:07 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:08 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:13:08 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:08 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:13:08 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:11 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:13:11 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:13:13 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:13:14 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:14 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:13:14 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:15 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:13:15 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:17 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:13:17 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:13:20 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:13:20 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:21 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:13:21 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:21 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:13:21 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:24 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:13:24 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:13:26 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:13:27 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:27 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:13:27 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:28 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:13:28 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:30 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:13:31 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:13:33 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:13:33 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:34 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:13:34 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:34 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:13:34 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:37 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:13:37 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:13:40 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:13:40 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:40 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:13:40 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:41 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:13:41 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:13:43 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:13:44 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:13:46 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:13:46 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:13:47 2014
+Current memory status; Free: 1520 MB; Total: 2048 MB
+
+Fri May 23 16:13:47 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:13:47 2014
+Current memory status; Free: 1576 MB; Total: 2048 MB
+
+Fri May 23 16:13:47 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:13:50 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:13:50 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:13:53 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:15:18 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:15:19 2014
+Current memory status; Free: 1512 MB; Total: 2048 MB
+
+Fri May 23 16:15:19 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:15:19 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:15:20 2014
+Current memory status; Free: 1577 MB; Total: 2048 MB
+
+Fri May 23 16:15:22 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 16:15:22 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:15:23 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:15:23 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:15:23 2014
+Current memory status; Free: 1504 MB; Total: 2048 MB
+
+Fri May 23 16:15:24 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:15:24 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:15:24 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:27 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:15:27 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:27 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:15:27 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:28 2014
+Current memory status; Free: 1504 MB; Total: 2048 MB
+
+Fri May 23 16:15:28 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:28 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:15:28 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:31 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:15:31 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:32 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:15:32 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:32 2014
+Current memory status; Free: 1504 MB; Total: 2048 MB
+
+Fri May 23 16:15:32 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:33 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:15:33 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:35 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:15:36 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:36 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:15:36 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:37 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:15:37 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:37 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:15:37 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:40 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:15:40 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:40 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:15:40 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:15:41 2014
+Current memory status; Free: 1512 MB; Total: 2048 MB
+
+Fri May 23 16:15:41 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:15:41 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:15:42 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:15:44 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:15:44 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:15:45 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:15:45 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:45 2014
+Current memory status; Free: 1504 MB; Total: 2048 MB
+
+Fri May 23 16:15:45 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:46 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:15:46 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:48 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:15:49 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:15:49 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:15:49 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:50 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:15:50 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:50 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:15:50 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:53 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:15:53 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:53 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:15:54 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:54 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:15:54 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:54 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:15:55 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:15:57 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 16:16:07 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:16:08 2014
+Current memory status; Free: 1519 MB; Total: 2048 MB
+
+Fri May 23 16:16:15 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:16:15 2014
+Current memory status; Free: 1519 MB; Total: 2048 MB
+
+Fri May 23 16:16:15 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:16:16 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:16:16 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:16:18 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:16:19 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:16:19 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:16:19 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:16:20 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:16:20 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:16:20 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:16:20 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:16:23 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:16:23 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:16:23 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:16:23 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:16:24 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:16:24 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:16:24 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:16:25 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:16:27 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:16:27 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:16:28 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:16:28 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:16:28 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:16:28 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:16:29 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:16:29 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:16:31 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:16:32 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:16:32 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:16:32 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:16:33 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:16:33 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:16:33 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:16:33 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:16:36 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:16:36 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:16:36 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:16:37 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:16:37 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:16:37 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:16:37 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:16:38 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:16:40 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:16:58 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:16:59 2014
+Current memory status; Free: 1519 MB; Total: 2048 MB
+
+Fri May 23 16:17:07 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:17:07 2014
+Current memory status; Free: 1520 MB; Total: 2048 MB
+
+Fri May 23 16:17:08 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:17:08 2014
+Current memory status; Free: 1576 MB; Total: 2048 MB
+
+Fri May 23 16:17:08 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:17:10 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:17:11 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:17:13 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:17:13 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:17:14 2014
+Current memory status; Free: 1513 MB; Total: 2048 MB
+
+Fri May 23 16:17:14 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:17:14 2014
+Current memory status; Free: 1568 MB; Total: 2048 MB
+
+Fri May 23 16:17:14 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:17:17 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:17:17 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:17:20 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:17:20 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:17:20 2014
+Current memory status; Free: 1512 MB; Total: 2048 MB
+
+Fri May 23 16:17:21 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:17:21 2014
+Current memory status; Free: 1568 MB; Total: 2048 MB
+
+Fri May 23 16:17:21 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:17:24 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:17:24 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:17:26 2014
+Current memory status; Free: 1566 MB; Total: 2048 MB
+
+Fri May 23 16:17:27 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:17:27 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:17:27 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:17:27 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:17:28 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:17:30 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:17:30 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:17:33 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:17:33 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:17:34 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:17:34 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:17:34 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:17:34 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:17:37 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:17:37 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:17:39 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:17:40 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:17:40 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:17:40 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:17:40 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:17:41 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:17:43 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:18:05 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:18:05 2014
+Current memory status; Free: 1519 MB; Total: 2048 MB
+
+Fri May 23 16:18:07 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:18:08 2014
+Current memory status; Free: 1508 MB; Total: 2048 MB
+
+Fri May 23 16:18:08 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:18:08 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:18:09 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:18:11 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:18:11 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:18:14 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:18:14 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:18:15 2014
+Current memory status; Free: 1504 MB; Total: 2048 MB
+
+Fri May 23 16:18:15 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:18:15 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:18:15 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:18:18 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:18:18 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:18:21 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:18:21 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:18:21 2014
+Current memory status; Free: 1511 MB; Total: 2048 MB
+
+Fri May 23 16:18:21 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:18:22 2014
+Current memory status; Free: 1568 MB; Total: 2048 MB
+
+Fri May 23 16:18:22 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:18:24 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:18:25 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:18:27 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:18:27 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:18:28 2014
+Current memory status; Free: 1511 MB; Total: 2048 MB
+
+Fri May 23 16:18:28 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:18:28 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:18:29 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:18:31 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:18:31 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:18:34 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:18:34 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:18:35 2014
+Current memory status; Free: 1512 MB; Total: 2048 MB
+
+Fri May 23 16:18:35 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:18:35 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:18:35 2014
+Current memory status; Free: 1563 MB; Total: 2048 MB
+
+Fri May 23 16:18:38 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:19:14 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:19:15 2014
+Current memory status; Free: 1518 MB; Total: 2048 MB
+
+Fri May 23 16:19:27 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:19:28 2014
+Current memory status; Free: 1492 MB; Total: 2048 MB
+
+Fri May 23 16:19:28 2014
+Current memory status; Free: 1538 MB; Total: 2048 MB
+
+Fri May 23 16:19:29 2014
+Current memory status; Free: 1485 MB; Total: 2048 MB
+
+Fri May 23 16:19:29 2014
+Current memory status; Free: 1551 MB; Total: 2048 MB
+
+Fri May 23 16:19:29 2014
+Current memory status; Free: 1546 MB; Total: 2048 MB
+
+Fri May 23 16:19:29 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:19:32 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 16:19:32 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:19:35 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 16:19:41 2014
+Current memory status; Free: 1546 MB; Total: 2048 MB
+
+Fri May 23 16:19:42 2014
+Current memory status; Free: 1490 MB; Total: 2048 MB
+
+Fri May 23 16:19:42 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:19:42 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 16:19:42 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:19:45 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 16:19:45 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:19:47 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 16:19:50 2014
+Current memory status; Free: 1535 MB; Total: 2048 MB
+
+Fri May 23 16:19:51 2014
+Current memory status; Free: 1469 MB; Total: 2048 MB
+
+Fri May 23 16:19:51 2014
+Current memory status; Free: 1535 MB; Total: 2048 MB
+
+Fri May 23 16:19:51 2014
+Current memory status; Free: 1528 MB; Total: 2048 MB
+
+Fri May 23 16:19:52 2014
+Current memory status; Free: 1538 MB; Total: 2048 MB
+
+Fri May 23 16:19:54 2014
+Current memory status; Free: 1527 MB; Total: 2048 MB
+
+Fri May 23 16:19:54 2014
+Current memory status; Free: 1557 MB; Total: 2048 MB
+
+Fri May 23 16:19:57 2014
+Current memory status; Free: 1545 MB; Total: 2048 MB
+
+Fri May 23 16:20:00 2014
+Current memory status; Free: 1535 MB; Total: 2048 MB
+
+Fri May 23 16:20:00 2014
+Current memory status; Free: 1472 MB; Total: 2048 MB
+
+Fri May 23 16:20:00 2014
+Current memory status; Free: 1538 MB; Total: 2048 MB
+
+Fri May 23 16:20:01 2014
+Current memory status; Free: 1528 MB; Total: 2048 MB
+
+Fri May 23 16:20:01 2014
+Current memory status; Free: 1538 MB; Total: 2048 MB
+
+Fri May 23 16:20:03 2014
+Current memory status; Free: 1527 MB; Total: 2048 MB
+
+Fri May 23 16:20:04 2014
+Current memory status; Free: 1557 MB; Total: 2048 MB
+
+Fri May 23 16:20:06 2014
+Current memory status; Free: 1546 MB; Total: 2048 MB
+
+Fri May 23 16:20:20 2014
+Current memory status; Free: 1557 MB; Total: 2048 MB
+
+Fri May 23 16:20:20 2014
+Current memory status; Free: 1546 MB; Total: 2048 MB
+
+Fri May 23 16:20:24 2014
+Current memory status; Free: 1557 MB; Total: 2048 MB
+
+Fri May 23 16:20:27 2014
+Current memory status; Free: 1546 MB; Total: 2048 MB
+
+Fri May 23 16:20:31 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:20:35 2014
+Current memory status; Free: 1541 MB; Total: 2048 MB
+
+Fri May 23 16:20:44 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:20:48 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:20:59 2014
+Current memory status; Free: 1538 MB; Total: 2048 MB
+
+Fri May 23 16:21:00 2014
+Current memory status; Free: 1473 MB; Total: 2048 MB
+
+Fri May 23 16:21:00 2014
+Current memory status; Free: 1538 MB; Total: 2048 MB
+
+Fri May 23 16:21:00 2014
+Current memory status; Free: 1529 MB; Total: 2048 MB
+
+Fri May 23 16:21:00 2014
+Current memory status; Free: 1541 MB; Total: 2048 MB
+
+Fri May 23 16:21:03 2014
+Current memory status; Free: 1530 MB; Total: 2048 MB
+
+Fri May 23 16:21:03 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:21:06 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:21:10 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:21:13 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:21:33 2014
+Current memory status; Free: 1548 MB; Total: 2048 MB
+
+Fri May 23 16:21:33 2014
+Current memory status; Free: 1478 MB; Total: 2048 MB
+
+Fri May 23 16:21:34 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:21:34 2014
+Current memory status; Free: 1484 MB; Total: 2048 MB
+
+Fri May 23 16:21:34 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:21:35 2014
+Current memory status; Free: 1540 MB; Total: 2048 MB
+
+Fri May 23 16:21:35 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:21:38 2014
+Current memory status; Free: 1533 MB; Total: 2048 MB
+
+Fri May 23 16:21:38 2014
+Current memory status; Free: 1544 MB; Total: 2048 MB
+
+Fri May 23 16:21:42 2014
+Current memory status; Free: 1528 MB; Total: 2048 MB
+
+Fri May 23 16:21:42 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:21:43 2014
+Current memory status; Free: 1472 MB; Total: 2048 MB
+
+Fri May 23 16:21:43 2014
+Current memory status; Free: 1537 MB; Total: 2048 MB
+
+Fri May 23 16:21:43 2014
+Current memory status; Free: 1528 MB; Total: 2048 MB
+
+Fri May 23 16:21:43 2014
+Current memory status; Free: 1537 MB; Total: 2048 MB
+
+Fri May 23 16:21:46 2014
+Current memory status; Free: 1525 MB; Total: 2048 MB
+
+Fri May 23 16:21:47 2014
+Current memory status; Free: 1536 MB; Total: 2048 MB
+
+Fri May 23 16:21:50 2014
+Current memory status; Free: 1527 MB; Total: 2048 MB
+
+Fri May 23 16:21:51 2014
+Current memory status; Free: 1527 MB; Total: 2048 MB
+
+Fri May 23 16:21:51 2014
+Current memory status; Free: 1472 MB; Total: 2048 MB
+
+Fri May 23 16:21:51 2014
+Current memory status; Free: 1538 MB; Total: 2048 MB
+
+Fri May 23 16:21:52 2014
+Current memory status; Free: 1528 MB; Total: 2048 MB
+
+Fri May 23 16:21:52 2014
+Current memory status; Free: 1538 MB; Total: 2048 MB
+
+Fri May 23 16:21:55 2014
+Current memory status; Free: 1508 MB; Total: 2048 MB
+
+Fri May 23 16:21:55 2014
+Current memory status; Free: 1520 MB; Total: 2048 MB
+
+Fri May 23 16:21:59 2014
+Current memory status; Free: 1513 MB; Total: 2048 MB
+
+Fri May 23 16:21:59 2014
+Current memory status; Free: 1503 MB; Total: 2048 MB
+
+Fri May 23 16:21:59 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 16:21:59 2014
+Current memory status; Free: 1524 MB; Total: 2048 MB
+
+Fri May 23 16:22:00 2014
+Current memory status; Free: 1514 MB; Total: 2048 MB
+
+Fri May 23 16:22:00 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 16:22:02 2014
+Current memory status; Free: 1512 MB; Total: 2048 MB
+
+Fri May 23 16:22:03 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 16:22:06 2014
+Current memory status; Free: 1513 MB; Total: 2048 MB
+
+Fri May 23 16:22:06 2014
+Current memory status; Free: 1512 MB; Total: 2048 MB
+
+Fri May 23 16:22:07 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 16:22:07 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 16:22:07 2014
+Current memory status; Free: 1514 MB; Total: 2048 MB
+
+Fri May 23 16:22:07 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 16:22:10 2014
+Current memory status; Free: 1512 MB; Total: 2048 MB
+
+Fri May 23 16:22:10 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 16:22:14 2014
+Current memory status; Free: 1513 MB; Total: 2048 MB
+
+Fri May 23 16:22:14 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:22:15 2014
+Current memory status; Free: 1458 MB; Total: 2048 MB
+
+Fri May 23 16:22:15 2014
+Current memory status; Free: 1523 MB; Total: 2048 MB
+
+Fri May 23 16:22:15 2014
+Current memory status; Free: 1514 MB; Total: 2048 MB
+
+Fri May 23 16:22:15 2014
+Current memory status; Free: 1522 MB; Total: 2048 MB
+
+Fri May 23 16:22:18 2014
+Current memory status; Free: 1506 MB; Total: 2048 MB
+
+Fri May 23 16:22:18 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:22:22 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:22:22 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:22:22 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:22:22 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:22:26 2014
+Current memory status; Free: 1546 MB; Total: 2048 MB
+
+Fri May 23 16:22:26 2014
+Current memory status; Free: 1543 MB; Total: 2048 MB
+
+Fri May 23 16:22:26 2014
+Current memory status; Free: 1491 MB; Total: 2048 MB
+
+Fri May 23 16:22:26 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:22:27 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:22:27 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:22:29 2014
+Current memory status; Free: 1551 MB; Total: 2048 MB
+
+Fri May 23 16:22:30 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:22:33 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:22:33 2014
+Current memory status; Free: 1552 MB; Total: 2048 MB
+
+Fri May 23 16:22:34 2014
+Current memory status; Free: 1553 MB; Total: 2048 MB
+
+Fri May 23 16:22:34 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:22:37 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:23:51 2014
+Current memory status; Free: 1593 MB; Total: 2048 MB
+
+Fri May 23 16:23:52 2014
+Current memory status; Free: 1528 MB; Total: 2048 MB
+
+Fri May 23 16:23:52 2014
+Current memory status; Free: 1593 MB; Total: 2048 MB
+
+Fri May 23 16:23:52 2014
+Current memory status; Free: 1528 MB; Total: 2048 MB
+
+Fri May 23 16:23:52 2014
+Current memory status; Free: 1593 MB; Total: 2048 MB
+
+Fri May 23 16:23:53 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:23:53 2014
+Current memory status; Free: 1593 MB; Total: 2048 MB
+
+Fri May 23 16:23:55 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:23:56 2014
+Current memory status; Free: 1593 MB; Total: 2048 MB
+
+Fri May 23 16:23:56 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:23:56 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:23:57 2014
+Current memory status; Free: 1506 MB; Total: 2048 MB
+
+Fri May 23 16:23:57 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:23:57 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:23:57 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:24:00 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:24:00 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:24:00 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:24:01 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:24:01 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:24:01 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:24:02 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:24:02 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:24:04 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:24:05 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:24:05 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:24:05 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:24:06 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:24:06 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:24:06 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:24:06 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:24:09 2014
+Current memory status; Free: 1581 MB; Total: 2048 MB
+
+Fri May 23 16:24:09 2014
+Current memory status; Free: 1592 MB; Total: 2048 MB
+
+Fri May 23 16:24:09 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:24:10 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:24:10 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:24:10 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:24:10 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:24:11 2014
+Current memory status; Free: 1592 MB; Total: 2048 MB
+
+Fri May 23 16:24:13 2014
+Current memory status; Free: 1581 MB; Total: 2048 MB
+
+Fri May 23 16:24:13 2014
+Current memory status; Free: 1591 MB; Total: 2048 MB
+
+Fri May 23 16:24:14 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:24:14 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:24:14 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:24:14 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:24:15 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:24:15 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:24:17 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:24:18 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:24:18 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:24:18 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:24:19 2014
+Current memory status; Free: 1506 MB; Total: 2048 MB
+
+Fri May 23 16:24:19 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:24:19 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:24:19 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:24:22 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:24:22 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:24:22 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:24:23 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:24:23 2014
+Current memory status; Free: 1506 MB; Total: 2048 MB
+
+Fri May 23 16:24:23 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:24:23 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:24:24 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:24:26 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:25:04 2014
+Current memory status; Free: 1593 MB; Total: 2048 MB
+
+Fri May 23 16:25:05 2014
+Current memory status; Free: 1527 MB; Total: 2048 MB
+
+Fri May 23 16:25:05 2014
+Current memory status; Free: 1586 MB; Total: 2048 MB
+
+Fri May 23 16:25:05 2014
+Current memory status; Free: 1520 MB; Total: 2048 MB
+
+Fri May 23 16:25:06 2014
+Current memory status; Free: 1586 MB; Total: 2048 MB
+
+Fri May 23 16:25:06 2014
+Current memory status; Free: 1576 MB; Total: 2048 MB
+
+Fri May 23 16:25:06 2014
+Current memory status; Free: 1586 MB; Total: 2048 MB
+
+Fri May 23 16:25:09 2014
+Current memory status; Free: 1575 MB; Total: 2048 MB
+
+Fri May 23 16:25:09 2014
+Current memory status; Free: 1593 MB; Total: 2048 MB
+
+Fri May 23 16:25:12 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:25:13 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:25:13 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:25:13 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:25:13 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:25:14 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:25:16 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:25:17 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:25:20 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:25:20 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:25:21 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:25:21 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:25:21 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:25:21 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:25:24 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:25:24 2014
+Current memory status; Free: 1593 MB; Total: 2048 MB
+
+Fri May 23 16:25:28 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:25:28 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:25:28 2014
+Current memory status; Free: 1516 MB; Total: 2048 MB
+
+Fri May 23 16:25:29 2014
+Current memory status; Free: 1581 MB; Total: 2048 MB
+
+Fri May 23 16:25:29 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:25:29 2014
+Current memory status; Free: 1581 MB; Total: 2048 MB
+
+Fri May 23 16:25:32 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:25:32 2014
+Current memory status; Free: 1581 MB; Total: 2048 MB
+
+Fri May 23 16:25:35 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:25:36 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:25:36 2014
+Current memory status; Free: 1515 MB; Total: 2048 MB
+
+Fri May 23 16:25:36 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:25:37 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:25:37 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:25:39 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:25:40 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:25:43 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:25:43 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:25:44 2014
+Current memory status; Free: 1518 MB; Total: 2048 MB
+
+Fri May 23 16:25:44 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:25:44 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:25:45 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:25:47 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:25:47 2014
+Current memory status; Free: 1584 MB; Total: 2048 MB
+
+Fri May 23 16:25:51 2014
+Current memory status; Free: 1546 MB; Total: 2048 MB
+
+Fri May 23 16:25:51 2014
+Current memory status; Free: 1541 MB; Total: 2048 MB
+
+Fri May 23 16:25:52 2014
+Current memory status; Free: 1489 MB; Total: 2048 MB
+
+Fri May 23 16:25:52 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:25:52 2014
+Current memory status; Free: 1560 MB; Total: 2048 MB
+
+Fri May 23 16:25:52 2014
+Current memory status; Free: 1569 MB; Total: 2048 MB
+
+Fri May 23 16:25:55 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:25:55 2014
+Current memory status; Free: 1568 MB; Total: 2048 MB
+
+Fri May 23 16:25:59 2014
+Current memory status; Free: 1549 MB; Total: 2048 MB
+
+Fri May 23 16:25:59 2014
+Current memory status; Free: 1535 MB; Total: 2048 MB
+
+Fri May 23 16:25:59 2014
+Current memory status; Free: 1467 MB; Total: 2048 MB
+
+Fri May 23 16:26:00 2014
+Current memory status; Free: 1535 MB; Total: 2048 MB
+
+Fri May 23 16:26:00 2014
+Current memory status; Free: 1522 MB; Total: 2048 MB
+
+Fri May 23 16:26:00 2014
+Current memory status; Free: 1547 MB; Total: 2048 MB
+
+Fri May 23 16:26:03 2014
+Current memory status; Free: 1550 MB; Total: 2048 MB
+
+Fri May 23 16:26:03 2014
+Current memory status; Free: 1562 MB; Total: 2048 MB
+
+Fri May 23 16:26:06 2014
+Current memory status; Free: 1527 MB; Total: 2048 MB
+
+Fri May 23 16:26:07 2014
+Current memory status; Free: 1530 MB; Total: 2048 MB
+
+Fri May 23 16:26:07 2014
+Current memory status; Free: 1476 MB; Total: 2048 MB
+
+Fri May 23 16:26:07 2014
+Current memory status; Free: 1542 MB; Total: 2048 MB
+
+Fri May 23 16:26:07 2014
+Current memory status; Free: 1533 MB; Total: 2048 MB
+
+Fri May 23 16:26:08 2014
+Current memory status; Free: 1543 MB; Total: 2048 MB
+
+Fri May 23 16:26:10 2014
+Current memory status; Free: 1530 MB; Total: 2048 MB
+
+Fri May 23 16:26:11 2014
+Current memory status; Free: 1541 MB; Total: 2048 MB
+
+Fri May 23 16:26:14 2014
+Current memory status; Free: 1522 MB; Total: 2048 MB
+
+Fri May 23 16:26:14 2014
+Current memory status; Free: 1505 MB; Total: 2048 MB
+
+Fri May 23 16:26:15 2014
+Current memory status; Free: 1474 MB; Total: 2048 MB
+
+Fri May 23 16:26:15 2014
+Current memory status; Free: 1540 MB; Total: 2048 MB
+
+Fri May 23 16:26:15 2014
+Current memory status; Free: 1531 MB; Total: 2048 MB
+
+Fri May 23 16:26:15 2014
+Current memory status; Free: 1533 MB; Total: 2048 MB
+
+Fri May 23 16:26:18 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:26:18 2014
+Current memory status; Free: 1581 MB; Total: 2048 MB
+
+Fri May 23 16:26:22 2014
+Current memory status; Free: 1565 MB; Total: 2048 MB
+
+Fri May 23 16:26:22 2014
+Current memory status; Free: 1554 MB; Total: 2048 MB
+
+Fri May 23 16:26:22 2014
+Current memory status; Free: 1559 MB; Total: 2048 MB
+
+Fri May 23 16:26:22 2014
+Current memory status; Free: 1576 MB; Total: 2048 MB
+
+Fri May 23 16:26:26 2014
+Current memory status; Free: 1564 MB; Total: 2048 MB
+
+Fri May 23 16:26:26 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:26:27 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:26:27 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:26:27 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:26:27 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:26:30 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:26:30 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:26:34 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:26:34 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:26:35 2014
+Current memory status; Free: 1518 MB; Total: 2048 MB
+
+Fri May 23 16:26:35 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:26:35 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:26:35 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:26:38 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:26:38 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:26:42 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:26:42 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:26:42 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:26:42 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:26:43 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:26:43 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:26:45 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:26:46 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:26:49 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:26:49 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:26:50 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:26:50 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:26:50 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:26:51 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:26:53 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:26:53 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:26:57 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:26:57 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:26:57 2014
+Current memory status; Free: 1516 MB; Total: 2048 MB
+
+Fri May 23 16:26:58 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:26:58 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:26:58 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:27:01 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:27:01 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:27:05 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:27:05 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:27:05 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:27:05 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:06 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:27:06 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:09 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:27:09 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:13 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:27:13 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:27:13 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:27:13 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:14 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:27:14 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:16 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:27:17 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:20 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:27:20 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:27:21 2014
+Current memory status; Free: 1516 MB; Total: 2048 MB
+
+Fri May 23 16:27:21 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:27:21 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:27:21 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:27:24 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:27:24 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:27:28 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:27:28 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:27:29 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:27:29 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:29 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:27:29 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:32 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:27:32 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:35 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:27:36 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:27:36 2014
+Current memory status; Free: 1516 MB; Total: 2048 MB
+
+Fri May 23 16:27:36 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:27:37 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:27:37 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:27:39 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:27:39 2014
+Current memory status; Free: 1582 MB; Total: 2048 MB
+
+Fri May 23 16:27:43 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:27:43 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:27:44 2014
+Current memory status; Free: 1517 MB; Total: 2048 MB
+
+Fri May 23 16:27:44 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:44 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:27:44 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:47 2014
+Current memory status; Free: 1571 MB; Total: 2048 MB
+
+Fri May 23 16:27:47 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:51 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:27:51 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:27:51 2014
+Current memory status; Free: 1518 MB; Total: 2048 MB
+
+Fri May 23 16:27:51 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:52 2014
+Current memory status; Free: 1573 MB; Total: 2048 MB
+
+Fri May 23 16:27:52 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:54 2014
+Current memory status; Free: 1572 MB; Total: 2048 MB
+
+Fri May 23 16:27:55 2014
+Current memory status; Free: 1583 MB; Total: 2048 MB
+
+Fri May 23 16:27:58 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:30:48 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:30:49 2014
+Current memory status; Free: 1504 MB; Total: 2048 MB
+
+Fri May 23 16:30:49 2014
+Current memory status; Free: 1570 MB; Total: 2048 MB
+
+Fri May 23 16:30:49 2014
+Current memory status; Free: 1561 MB; Total: 2048 MB
+
+Fri May 23 16:30:49 2014
+Current memory status; Free: 1591 MB; Total: 2048 MB
+
+Fri May 23 16:30:52 2014
+Current memory status; Free: 1580 MB; Total: 2048 MB
+
+Fri May 23 16:31:14 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:31:15 2014
+Current memory status; Free: 1519 MB; Total: 2048 MB
+
+Fri May 23 16:31:15 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:31:15 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:31:15 2014
+Current memory status; Free: 1592 MB; Total: 2048 MB
+
+Fri May 23 16:31:18 2014
+Current memory status; Free: 1581 MB; Total: 2048 MB
+
+Fri May 23 16:31:31 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:31:31 2014
+Current memory status; Free: 1519 MB; Total: 2048 MB
+
+Fri May 23 16:31:31 2014
+Current memory status; Free: 1585 MB; Total: 2048 MB
+
+Fri May 23 16:31:32 2014
+Current memory status; Free: 1575 MB; Total: 2048 MB
+
+Fri May 23 16:31:32 2014
+Current memory status; Free: 1592 MB; Total: 2048 MB
+
+Fri May 23 16:31:35 2014
+Current memory status; Free: 1581 MB; Total: 2048 MB
+
+Fri May 23 16:32:26 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:32:26 2014
+Current memory status; Free: 1512 MB; Total: 2048 MB
+
+Fri May 23 16:32:27 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:32:27 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:32:27 2014
+Current memory status; Free: 1588 MB; Total: 2048 MB
+
+Fri May 23 16:32:30 2014
+Current memory status; Free: 1577 MB; Total: 2048 MB
+
+Fri May 23 16:32:34 2014
+Current memory status; Free: 1574 MB; Total: 2048 MB
+
+Fri May 23 16:32:35 2014
+Current memory status; Free: 1524 MB; Total: 2048 MB
+
+Fri May 23 16:32:35 2014
+Current memory status; Free: 1589 MB; Total: 2048 MB
+
+Fri May 23 16:32:35 2014
+Current memory status; Free: 1579 MB; Total: 2048 MB
+
+Fri May 23 16:32:35 2014
+Current memory status; Free: 1589 MB; Total: 2048 MB
+
+Fri May 23 16:32:38 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:32:42 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:32:43 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:32:43 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:32:43 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:32:43 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:32:46 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:32:50 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:32:51 2014
+Current memory status; Free: 1513 MB; Total: 2048 MB
+
+Fri May 23 16:32:51 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:32:51 2014
+Current memory status; Free: 1568 MB; Total: 2048 MB
+
+Fri May 23 16:32:52 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:32:54 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:32:59 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:32:59 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:32:59 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:32:59 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:33:00 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:02 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 16:33:06 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:33:07 2014
+Current memory status; Free: 1513 MB; Total: 2048 MB
+
+Fri May 23 16:33:07 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:33:07 2014
+Current memory status; Free: 1568 MB; Total: 2048 MB
+
+Fri May 23 16:33:07 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:33:10 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:14 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:15 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:33:15 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:15 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:33:15 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:18 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:33:22 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:22 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:33:22 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:22 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:33:23 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:25 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:33:29 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:33:30 2014
+Current memory status; Free: 1513 MB; Total: 2048 MB
+
+Fri May 23 16:33:30 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:33:30 2014
+Current memory status; Free: 1568 MB; Total: 2048 MB
+
+Fri May 23 16:33:30 2014
+Current memory status; Free: 1578 MB; Total: 2048 MB
+
+Fri May 23 16:33:33 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:36 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:37 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:33:37 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:37 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:33:38 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:40 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:33:44 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:44 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:33:45 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:45 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:33:45 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:48 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:33:51 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:52 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:33:52 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:52 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:33:52 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:55 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:33:59 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:33:59 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:34:00 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:00 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:34:00 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:03 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:34:07 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:07 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:34:07 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:07 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:34:08 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:10 2014
+Current memory status; Free: 1555 MB; Total: 2048 MB
+
+Fri May 23 16:34:14 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:15 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:34:15 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:15 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:34:15 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:18 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:34:22 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:22 2014
+Current memory status; Free: 1501 MB; Total: 2048 MB
+
+Fri May 23 16:34:23 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:23 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:34:23 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:26 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:34:30 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:31 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:34:31 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:31 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:34:31 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:34 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:34:38 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:39 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:34:39 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:39 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:34:39 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:42 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:34:46 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:47 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:34:47 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:47 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:34:47 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:50 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:34:54 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:55 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:34:55 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:55 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:34:55 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:34:58 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:35:02 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:35:02 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:35:02 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:35:03 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:35:03 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:35:05 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
+Fri May 23 16:35:09 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:35:10 2014
+Current memory status; Free: 1502 MB; Total: 2048 MB
+
+Fri May 23 16:35:10 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:35:10 2014
+Current memory status; Free: 1558 MB; Total: 2048 MB
+
+Fri May 23 16:35:10 2014
+Current memory status; Free: 1567 MB; Total: 2048 MB
+
+Fri May 23 16:35:13 2014
+Current memory status; Free: 1556 MB; Total: 2048 MB
+
