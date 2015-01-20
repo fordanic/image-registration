@@ -11,7 +11,9 @@ function display_motion_field(motionField,figNo,title,removeMean,varargin)
 %                         motion field
 %
 % OPTIONAL INPUT ARGUMENTS
-% N/A
+% 'scaling'             - Scaling of quiver
+% 'color'               - Color of quiver
+% 'delta'               - Spacing for quiver
 %
 % OUTPUT ARGUMENTS
 % N/A

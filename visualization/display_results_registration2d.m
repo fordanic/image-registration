@@ -12,10 +12,10 @@ function display_results_registration2d(moving,fixed,...
 %                         size before display
 % gamma                 - Gamma to use for display
 %
-% OPTIONALINPUT ARGUMENTS
+% OPTIONAL INPUT ARGUMENTS
 % N/A
 %
-% INPUT ARGUMENTS
+% OUTPUT ARGUMENTS
 % N/A
 
 % Copyright (c) 2012 Daniel Forsberg
@@ -36,7 +36,6 @@ function display_results_registration2d(moving,fixed,...
 
 moving = moving/max(moving(:));
 fixed = fixed/max(fixed(:));
-currentSize = size(displacementField{1});
 displacementField = resampler(displacementField, originalSize, 'relativeValues', true);
 deformed = deformation(moving,displacementField,'linear');
 

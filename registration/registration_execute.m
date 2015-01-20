@@ -1,7 +1,9 @@
 function registration_execute()
-% REGISTRATION_EXECUTE Performs image registration on the data in the struct registration
+% REGISTRATION_EXECUTE Performs image registration on the data in the struct 'registration'
 %
 % registration_execute()
+%
+% Note that the struct 'registration' is a global variable
 %
 % struct registration
 % fixed                             - Fixed image
@@ -9,17 +11,27 @@ function registration_execute()
 % method                            - Basic concept of the applied method
 %                                     'polynomial-expansion', 'optical-flow', 'phase'
 % transformationModel               - Transformation model
-%                                     'translation', 'affine', 'non-rigid'
+%                                     'translation', 'rigid', 'affine', (parametric)
+%                                     'non-rigid' (non-parametric)
 % multiLevelMode                    - Type of multi level mode
 %                                     'scale' or 'resolution'
 % multiModal                        - Multi-modal image registration, true/false
+%                                     Note that this feature is very unstable
+%                                     and has not been fully evaluated. Please
+%                                     try it but if you do want to perform
+%                                     multi-modal image registration, please use
+%                                     another toolbox.
 % symmetric                         - Symmetric registration, true/false
 %                                     If symmetric and non-rigid then
 %                                     log-domain will be set to true
 % startScale                        - Start scale
 % stopScale                         - Stop scale <= start scale
 % iterationsPerScale                - Number of iterations per scale
-%                                     [# iteration stop scale ... # iterations start scale]
+%                                     [# iteration stop scale, ... # iterations start scale]
+%
+% Only relevant for transformationModel set to parametric registration
+% initialTransformationMatrix       - Initial transformation matrix to start
+%                                     from
 %
 % Only relevant for multi-modal and optical flow or polynomial expansion
 % numberOfChannels                  - Number of channels to use in channel
@@ -39,14 +51,17 @@ function registration_execute()
 % Only relevant for non-rigid registration
 % fluidRegularization               - Regularization of the update field, true/false
 % fluidRegularizationData           - Sigma to apply per scale
+%                                     [# sigma stop scale, ... # sigma start scale]
 % elasticRegularization             - Regularization of the accumulated field, true/false
 % elasticRegularizationData         - Sigma to apply per scale
+%                                     [# sigma stop scale, ... # sigma start scale]
 % accumulationMethod                - Method for accumulating the update
 %                                     field to the accumulated field
 %                                     'sum', 'compositive', 'diffeomorphic'
 % applyCertainty                    - Apply certainty when regularizing the
 %                                     displacement fields and accumulating
 %                                     the displacement fields
+%                                     Not implemented yet, i.e. do not use.
 % logDomain                         - Perform the registration in the
 %                                     log-domain, true/false
 % BCHmode                           - Baker-Campbell-Hausdorff
@@ -59,6 +74,11 @@ function registration_execute()
 % displayFinal                      - Display final results, true/false
 % gamma                             - Applied gamma for visualization, [0,1]
 %
+% For more details on the parameters and basically describing the whole
+% framework used here, please see my thesis "Robust Image Registration for 
+% Improved Clinical Efficiency: Using Local Structure Analysis and Model-Based 
+% Processing" available at:
+% http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-91116.
 
 % Copyright (c) 2012 Daniel Forsberg
 % danne.forsberg@outlook.com
@@ -162,7 +182,7 @@ switch registration.multiLevelMode
             registration.movingCertainty = cell(1,registration.startScale + 1);
         end
     otherwise
-        error('Unknow multi resolution mode');
+        error('Unknow multi-level mode set');
 end
 
 %% Initialize variables

@@ -2,6 +2,16 @@ function setup_image_registration_repository()
 % SETUP_IMAGE_REGISTRATION_REPOSITORY Call this function to setup and compile necessary files
 %
 % setup_image_registration_repository
+%
+% INPUT ARGUEMNTS
+% N/A
+%
+% OPTIONAL INPUT ARGUEMNTS
+% N/A
+%
+% OUTPUT ARGUEMNTS
+% N/A
+
 
 % Copyright (c) 2014 Daniel Forsberg
 % danne.forsberg@outlook.com

@@ -1,7 +1,7 @@
 function display_motion_field_bw(ima,motionField,figNo,title,gamma,removeMean)
 % DISPLAY_MOTION_FIELD_BW Displays a motion field in BW
 %
-% display_motion_field_bw(ima,motionField,figNo,title,gamma)
+% display_motion_field_bw(ima,motionField,figNo,title,gamma,removeMean)
 %
 % INPUT ARGUMENTS
 % motionField           - Motionfield to display

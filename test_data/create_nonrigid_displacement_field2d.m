@@ -29,7 +29,7 @@ function [displacementField] = create_nonrigid_displacement_field2d(fieldSize,va
 % You should have received a copy of the GNU General Public License
 % along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-% Default parameters
+%% Default parameters
 maxDisplacement = 10;
 
 % Overwrites default parameter
@@ -37,6 +37,7 @@ for k=1:2:length(varargin)
   eval([varargin{k},'=varargin{',int2str(k+1),'};']);
 end;
 
+%%
 displacementField = cell(2,1);
 
 model = 'FFT';
