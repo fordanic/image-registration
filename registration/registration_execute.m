@@ -149,14 +149,14 @@ switch registration.multiLevelMode
                 ~isempty(registration.fixedCertainty)
             registration.fixedCertainty = create_multi_scale_representation(...
                 registration.fixedCertainty, registration.startScale + 1);
-        elseif strcmp(registration.method,'phase')
+        else strcmp(registration.method,'phase')
             registration.fixedCertainty = cell(1,registration.startScale + 1);
         end
         if strcmp(registration.method,'phase') && ...
                 ~isempty(registration.movingCertainty)
             registration.movingCertainty = create_multi_scale_representation(...
                 registration.movingCertainty, registration.startScale + 1);
-        elseif strcmp(registration.method,'phase')
+        else strcmp(registration.method,'phase')
             registration.movingCertainty = cell(1,registration.startScale + 1);
         end
     case 'resolution'
@@ -171,14 +171,14 @@ switch registration.multiLevelMode
                 ~isempty(registration.fixedCertainty)
             registration.fixedCertainty = create_multi_level_representation(...
                 registration.fixedCertainty, registration.startScale + 1);
-        elseif strcmp(registration.method,'phase')
+        else strcmp(registration.method,'phase')
             registration.fixedCertainty = cell(1,registration.startScale + 1);
         end
         if strcmp(registration.method,'phase') && ...
                 ~isempty(registration.movingCertainty)
             registration.movingCertainty = create_multi_level_representation(...
                 registration.movingCertainty, registration.startScale + 1);
-        elseif strcmp(registration.method,'phase')
+        else strcmp(registration.method,'phase')
             registration.movingCertainty = cell(1,registration.startScale + 1);
         end
     otherwise

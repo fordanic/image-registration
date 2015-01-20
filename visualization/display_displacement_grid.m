@@ -1,4 +1,4 @@
-function display_displacement_grid(displacement,figNo,title)
+function display_displacement_grid(displacement,figNo,title,varargin)
 % DISPLAY_DISPLACEMENT_GRID Displays the deformed grid
 %
 % display_displacement_grid(displacement,figNo,title)
