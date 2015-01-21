@@ -1,47 +1,32 @@
 # image-registration
 
-A MATLAB library/toolbox providing access to image registration 
-suitable for use with medical images.
+A MATLAB library/toolbox providing access to image registration, 
+initially developed for use with medical images.
 
-# Copyright and licensing
+# Copyright
 
 Copyright (c) 2015 Daniel Forsberg
 danne.forsberg@outlook.com
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-Source code provided in this repository is generally released under 
-the GNU GENERAL PUBLIC LICENSE Version 3, if not otherwise stated.
 
 # About
 
 This toolbox was written during my PhD at Linköping University, Sweden. 
 However, although developed during that time, it doesn't contain so much
-of the specifics that I developed during my PhD. Rather it contains a 
+of the specifics that I researched during my PhD. Rather it contains a 
 general framework for image registration in MATLAB. The toolbox supports 
 the following features:
 * 2D and 3D registration
-* Use of certainty fields for controlling areas of influence during the 
-registration process
+* Symmetric registration
 * Translation, rigid and affine registration (parametric)
 * Non-rigid registration (non-parametric) with support for
 ** Fluid and elastic regularization (not really but often called so)
 ** Additive, compositive and diffeomorphic accumulation of the update field
 ** Registration in the Log-domain
-** Symmetric registration
-* All this using either optical flow based registration (demons in the 
+* All this using either optical-flow based registration (demons in the 
 non-rigid case), phase-difference based registration (the Morphon in the
 non-rigid case) and polynomial expansion based registration.
+* Use of certainty fields for controlling areas of influence during the 
+registration process (only in the case of phase-difference based registration)
 Specifics of my thesis are rather found in separate toolboxes, 
 to be made available at my GitHub account.
 
@@ -61,12 +46,13 @@ Run the 'userpath' function to determine where MATLAB looks for
 the startup.m file.
 
 Note that this library is dependent on my matlab-utilities repository,
-available from https://github.com/fordanic/matlab-utilities.
+available from https://github.com/fordanic/matlab-utilities and assumes
+it to already be installed and available on the MATLAB path.
 
-Best way to test the setup is to run registration_example2d or
-registration_example3d. Type help registration_example2d
+Best way to test the setup or the toolbox is to run registration_example2d 
+or registration_example3d. Type help registration_example2d
 or help registration_example3d to see some of the parameters
-that can be set. Use this examples as starting point
+that can be set. Use these examples as a starting point
 when setting up to run your own registration.
 
 # Content
@@ -96,6 +82,22 @@ matlab-utilities repository.
 
 # Adding m-files
 
-To create a suitable file header for M-files, use the function 
-create_new_m_function to create new M-files, available in the
-matlab-utilities repository.
+To create a suitable file header for new M-files, use the function 
+create_new_m_function, available in the matlab-utilities repository.
+
+# Licensing
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Source code provided in this repository is generally released under 
+the GNU GENERAL PUBLIC LICENSE Version 3, if not otherwise stated.
