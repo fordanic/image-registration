@@ -51,13 +51,6 @@ for k=1:2:length(varargin),         % overwrites default parameter
   eval([varargin{k},'=varargin{',int2str(k+1),'};']);
 end;
 
-global USE_CUDA;
-if ~isempty(USE_CUDA) && USE_CUDA && ndims(fixed) == 3
-    useCUDA = true;
-else 
-    useCUDA = false;
-end
-
 %***************************************************************
 % Load quadrature filters
 %***************************************************************
@@ -92,18 +85,8 @@ updateField = cell(3,1);
 
 for k = 1 : numberOfFilterDirections
     % Filter moving and fixed
-    if useCUDA
-        qa = CUDA_convolution3d(moving, real(f{k}), 'edge_extraction');
-        qa = qa + 1i*CUDA_convolution3d(moving, imag(f{k}), 'edge_extraction');
-    else 
-        qa = imfilter(moving, f{k}, 'same', 'conv');
-    end
-    if useCUDA
-        qb = CUDA_convolution3d(fixed, real(f{k}), 'edge_extraction');
-        qb = qb + 1i*CUDA_convolution3d(fixed, imag(f{k}), 'edge_extraction');
-    else
-        qb = imfilter(fixed, f{k}, 'same', 'conv');
-    end
+    qa = imfilter(moving, f{k}, 'same', 'conv');
+    qb = imfilter(fixed, f{k}, 'same', 'conv');
     
     % Estimate dk and ck
     qq = qa.*conj(qb);

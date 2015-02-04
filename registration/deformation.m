@@ -38,25 +38,13 @@ end
 dims = length(size(input));
 sz = size(input);
 
-global USE_CUDA;
-if ~isempty(USE_CUDA) && USE_CUDA && ndims(input) == 3
-    useCUDA = true;
-else 
-    useCUDA = false;
-end
-
-if useCUDA
-    output = CUDA_deformation3d(input, displacementField{1}, displacementField{2}, displacementField{3}, interpolation);
-    return;
-else
-    if (dims == 2)
-        [X,Y] = meshgrid(1:sz(2), 1:sz(1));
-        output = ba_interp2(input, X+displacementField{1}, ...
-            Y+displacementField{2}, interpolation);
-    elseif (dims == 3)
-        [X,Y,Z] = meshgrid(1:sz(2), 1:sz(1), 1:sz(3));
-        output = ba_interp3(input, X+displacementField{1}, ...
-            Y+displacementField{2}, Z+displacementField{3}, ...
-            interpolation);
-    end
+if (dims == 2)
+    [X,Y] = meshgrid(1:sz(2), 1:sz(1));
+    output = ba_interp2(input, X+displacementField{1}, ...
+        Y+displacementField{2}, interpolation);
+elseif (dims == 3)
+    [X,Y,Z] = meshgrid(1:sz(2), 1:sz(1), 1:sz(3));
+    output = ba_interp3(input, X+displacementField{1}, ...
+        Y+displacementField{2}, Z+displacementField{3}, ...
+        interpolation);
 end

@@ -46,13 +46,6 @@ for k=1:2:length(varargin)
     eval([varargin{k},'=varargin{',int2str(k+1),'};']);
 end;
 
-global USE_CUDA;
-if ~isempty(USE_CUDA) && USE_CUDA && ndims(fixed) == 3
-    useCUDA = true;
-else
-    useCUDA = false;
-end
-
 % Initialize transformation matrix
 transformationMatrix = eye(4);
 
@@ -60,29 +53,13 @@ transformationMatrix = eye(4);
 load quadratureFiltersLinearRegistration3D
 
 % Perform quadrature filtering
-if USE_CUDA
-    q21 = CUDA_convolution3d(moving, real(f1), 'edge_extraction');
-    q21 = q21 + 1i*CUDA_convolution3d(moving, imag(f1), 'edge_extraction');
-    q22 = CUDA_convolution3d(moving, real(f2), 'edge_extraction');
-    q22 = q22 + 1i*CUDA_convolution3d(moving, imag(f2), 'edge_extraction');
-    q23 = CUDA_convolution3d(moving, real(f3), 'edge_extraction');
-    q23 = q23 + 1i*CUDA_convolution3d(moving, imag(f3), 'edge_extraction');
-    
-    q11 = CUDA_convolution3d(fixed, real(f1), 'edge_extraction');
-    q11 = q11 + 1i*CUDA_convolution3d(fixed, imag(f1), 'edge_extraction');
-    q12 = CUDA_convolution3d(fixed, real(f2), 'edge_extraction');
-    q12 = q12 + 1i*CUDA_convolution3d(fixed, imag(f2), 'edge_extraction');
-    q13 = CUDA_convolution3d(fixed, real(f3), 'edge_extraction');
-    q13 = q13 + 1i*CUDA_convolution3d(fixed, imag(f3), 'edge_extraction');
-else
-    q21 = imfilter(moving,f1,'same','conv');
-    q22 = imfilter(moving,f2,'same','conv');
-    q23 = imfilter(moving,f3,'same','conv');
-    
-    q11 = imfilter(fixed,f1,'same','conv');
-    q12 = imfilter(fixed,f2,'same','conv');
-    q13 = imfilter(fixed,f3,'same','conv');
-end
+q21 = imfilter(moving,f1,'same','conv');
+q22 = imfilter(moving,f2,'same','conv');
+q23 = imfilter(moving,f3,'same','conv');
+
+q11 = imfilter(fixed,f1,'same','conv');
+q12 = imfilter(fixed,f2,'same','conv');
+q13 = imfilter(fixed,f3,'same','conv');
 
 filterSize = (size(real(f1),1)-1)/2;
 q11 = q11(filterSize+1:end-filterSize,filterSize+1:end-filterSize,filterSize+1:end-filterSize);
