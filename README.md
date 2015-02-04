@@ -35,7 +35,7 @@ to be made available at my GitHub account.
 To use the code available in this repository, add the following 
 lines to your startup.m file.
 
-addpath_recurse('<your path to where you keep the repository>')
+addpath('<your path to where you keep the repository>')
 setup_image_registration_repository();
 
 The last line will make sure to compile included mex-files and 
@@ -47,7 +47,9 @@ the startup.m file.
 
 Note that this library is dependent on my matlab-utilities repository,
 available from https://github.com/fordanic/matlab-utilities and assumes
-it to already be installed and available on the MATLAB path.
+it to already be installed and available on the MATLAB path. If not 
+available then you will be offered during setup to download needed
+external dependencies.
 
 Best way to test the setup or the toolbox is to run registration_example2d 
 or registration_example3d. Type help registration_example2d
