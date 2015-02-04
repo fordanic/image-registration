@@ -36,7 +36,7 @@ to be made available at my GitHub account.
 To use the code available in this repository, add the following 
 lines to your startup.m file.
 
-addpath('<your path to where you keep the repository>')
+addpath('path-to-this-repository')
 setup_image_registration_repository();
 
 The last line will make sure to compile included mex-files and 
