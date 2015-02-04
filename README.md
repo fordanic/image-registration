@@ -27,6 +27,7 @@ non-rigid case), phase-difference based registration (the Morphon in the
 non-rigid case) and polynomial expansion based registration.
 * Use of certainty fields for controlling areas of influence during the 
 registration process (only in the case of phase-difference based registration)
+
 Specifics of my thesis are rather found in separate toolboxes, 
 to be made available at my GitHub account.
 
