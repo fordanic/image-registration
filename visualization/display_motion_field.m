@@ -4,7 +4,7 @@ function display_motion_field(motionField,figNo,title,removeMean,varargin)
 % display_motion_field(motionField,figNo,title,removeMean)
 %
 % INPUT ARGUMENTS
-% motionField           - Motionfiel to display
+% motionField           - Motionfield to display
 % figNo                 - Figure number to display motion field in
 % title                 - Figure title
 % removeMean            - Set to true to remove mean before displaying

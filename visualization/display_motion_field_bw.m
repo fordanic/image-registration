@@ -1,4 +1,4 @@
-function display_motion_field_bw(ima,motionField,figNo,title,gamma,removeMean)
+function display_motion_field_bw(ima,motionField,figNo,title,removeMean)
 % DISPLAY_MOTION_FIELD_BW Displays a motion field in BW
 %
 % display_motion_field_bw(ima,motionField,figNo,title,gamma,removeMean)
@@ -33,6 +33,7 @@ function display_motion_field_bw(ima,motionField,figNo,title,gamma,removeMean)
 % You should have received a copy of the GNU General Public License
 % along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+gamma = 1;
 [sizeY sizeX] = size(motionField{1});
 delta = 15;
 xc = 1:delta:sizeX; 
