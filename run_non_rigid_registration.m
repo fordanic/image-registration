@@ -15,10 +15,10 @@ function [deformed, displacementField, displacementFieldInverse] = ...
 % INPUT ARGUMENTS
 % moving                        - Moving image
 % fixed                         - Fixed image
-% method                        - morphon or demons
-% accumulationMethod            - add/compositive/diffeomorphic
-% startScale                    - Starting scale for registration
-% stopScale                     - Stopping scale for registration
+% method                        - 'morphon' or 'demons'
+% accumulationMethod            - 'add'/'compositive'/'diffeomorphic'
+% startScale                    - Start scale for registration
+% stopScale                     - Stop scale for registration
 % numberOfIterationsPerScale    - Number of iterations per scale
 % fluidRegularization           - Regularization of update displacement field
 % fluidRegularizationData       - Sigma for regularization
@@ -35,7 +35,7 @@ function [deformed, displacementField, displacementFieldInverse] = ...
 % displacementField             - Estimated displacement field
 % displacementFieldInverse      - Inverse displacement field
 
-% Copyright (c) 2014 Daniel Forsberg
+% Copyright (c) 2015 Daniel Forsberg
 % danne.forsberg@outlook.com
 %
 % This program is free software: you can redistribute it and/or modify
@@ -132,7 +132,11 @@ else
     registration.dims = ndims(registration.fixed);
     
     % Set registration parameters
-    registration.method = method;
+    if strcmp(method,'morphon')
+        registration.method = 'phase';
+    elseif strcmp(method,'demons')
+        registration.method = 'optical-flow';
+    end
     registration.transformationModel = 'non-rigid';
     
     % add, compositive, diffeomorphic
