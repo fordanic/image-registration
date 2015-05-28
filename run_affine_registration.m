@@ -20,7 +20,8 @@ function [deformed, transformationMatrix] = run_affine_registration(...
 % 'symmetric'                   - true/false
 % 'rigid'                       - true/false
 % 'initialTransformation'       - Initital transformation matrix to apply
-% 'numberOfFilters'             - Number of quadrature filters to employ, 3/6
+% 'numberOfFilters'             - Number of quadrature filters to employ, 3 or 6
+%                                 Only relevant for GPU registration
 % 'GPU'                         - true/false
 % 'useMasks'                    - true/false
 % 'movingMask'                  - Certainty mask for moving image
@@ -68,6 +69,18 @@ end
 if GPU
     %% Set up GPU version
     clear global registrationCUDAAffine;
+    
+    if ~exist('check_registrationCUDA_affine.m','file') || ...
+            ~exist('CUDA_affine_registration3d.m','file')
+        error(['Files needed for GPU-based image registration are unavailable. ',...
+            'Either they are not on the path or the actual toolboxes for this are missing. ',...
+            'The toolboxes can be downloaded at https://bitbucket.org/dforsberg/matlab_cuda ',...
+            'and https://bitbucket.org/dforsberg/cuda'])
+    end
+    
+    if ndims(moving) ~= 3 || ndims(fixed) ~= 3
+        error('GPU-based image registration is only supported for 3D data.')
+    end
     
     global registrationCUDAAffine;
     

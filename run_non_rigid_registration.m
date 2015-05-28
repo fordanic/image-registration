@@ -67,6 +67,18 @@ if GPU
     %% Set GPU version
     clear global registrationCUDA
     
+    if ~exist('check_registrationCUDA_affine.m','file') || ...
+            ~exist('CUDA_non_rigid_registration3d.m','file')
+        error(['Files needed for GPU-based image registration are unavailable. ',...
+            'Either they are not on the path or the actual toolboxes for this are missing. ',...
+            'The toolboxes can be downloaded at https://bitbucket.org/dforsberg/matlab_cuda ',...
+            'and https://bitbucket.org/dforsberg/cuda'])
+    end
+    
+    if ndims(moving) ~= 3 || ndims(fixed) ~= 3
+        error('GPU-based image registration is only supported for 3D data.')
+    end
+    
     global registrationCUDA;
     
     registrationCUDA.moving = moving;
